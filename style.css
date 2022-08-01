@@ -1,0 +1,295 @@
+
+a{
+    text-decoration: none;
+
+}
+a:hover{
+    
+    background-color:#EBEDEF;
+    
+}
+h3{
+    
+    font-weight: bolder;
+    font-size: 20px;
+    
+}
+h4{
+    padding: 10px;
+}
+p{
+    
+    font-size: 14px;
+    color: #2F3134;
+    font-weight: 500;
+}
+.h-pri{
+    font-size: 52px;
+    font-weight: bold;
+    color: #C4160C;
+
+}
+.h-pri:hover{
+    background-color: white;
+}
+.h-sec{
+    font-size: 18px;
+    color: #303134;
+}
+.conteudo-pag{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: 25px;
+    
+    
+    font-family: 'Encode Sans', sans-serif;
+    
+    
+    
+    
+   
+    
+}
+.top-menu{
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+    
+    
+    width: 100%;
+    padding: 10px;
+    
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-prin{
+    height: 36px;
+}
+.img-p{
+    width: 193px;
+    height: 110px;
+    border-radius: 12px;
+}
+.imagem{
+    width: 240px;
+    height: 128px;
+    border-radius: 24px;
+    padding: 10px;
+}
+.logo{
+    display: flex;
+    border-color: #F5F6F7;
+    border-width: 1px;
+    border-style: solid;
+    
+    
+    
+    
+    
+    justify-content: space-between;
+    
+    width: 100%;
+}
+.logo a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.globo{
+    width: 115px;
+}
+.corpo{
+    display: flex;
+    
+   
+   
+    width: 1250px;
+    
+}
+.materia-mid{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #EBEDEF;
+    border-top: 0px;
+    border-bottom: 0px;
+    
+    display: flex;
+    flex-direction: column;
+    
+    
+    height: max-content;
+    padding: 10px;
+    
+}
+.materia-mid a{
+    display: flex;
+    
+    flex-direction: column;
+    
+    
+    justify-content: space-evenly;
+    align-items: flex-start;
+    
+    
+}
+.espiao{
+    height: 300px;
+}
+.raposa{
+    height: 250px;
+}
+.frances{
+    height: 230px;
+}
+.materia-mid h4{
+    font-weight: 500;
+    font-size: 14px;
+    color: #16AE54;
+}
+.materia-mid h3{
+    font-size: 17px;
+    font-weight: 700;
+    color: #2F3134;
+    width: 230px;
+    word-break: break-word;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    
+}
+.materia-mid p{
+    font-size: small;
+}
+.materia-rigth{
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    padding: 10px;
+}
+.materia-rigth a{
+    display: flex;
+    
+    flex-direction: column;
+    
+    justify-content: space-evenly;
+    align-items: flex-start;
+}
+.materia-rigth h4{
+    font-weight: 500;
+    font-size: 14px;
+    color: #EC8006;
+}
+.materia-rigth h3{
+    font-size: 20px;
+    font-weight: 700;
+    color: #2F3134;
+}
+.tralli{
+ height: 220px;
+}
+.lota{
+    height: 230px;
+}
+
+.materia-prin{
+    
+    display: flex;
+    flex-direction: column;
+    height:693px;
+    align-items: center;
+
+    
+    
+    
+    justify-content: space-around;
+   
+}
+
+
+.pos-manchete {
+    
+    display: flex;
+    justify-content: space-evenly;
+    
+    
+    
+   
+    height: 40%;
+    
+}
+.pos-manchete div{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+
+}
+.pos-manchete a{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items:flex-start;
+    
+   
+   
+
+}
+.pos-manchete h3{
+    font-size: 20px;
+    color: #2F3134;
+    font-weight: 700;
+    width: 200px;
+    word-break: break-word;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    
+    
+}
+.pos-manchete h4{
+    font-size: 14px;
+    color: #C4170C;
+}     
+.pos-manchete2{
+    display: flex;
+    
+    
+    height:20% ;
+
+}
+.pos-manchete2 h4{
+    font-size: 14px;
+    color: #C4170C;
+}
+.pos-manchete2 h3{
+    font-size: 20px;
+    color: #2F3134;
+    font-weight: 700;
+}
+.pos-manchete2 a{
+    display: flex;
+    flex-wrap: wrap;
+    align-content:space-around;
+    
+}
+.caminhao{
+ height: 150px;
+}
+.pao{
+    height: 150px;
+}
+.mendonca{
+    height: 150px;
+}
+.manchete{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: space-around;
+    height: 34%;
+}
+.logo img{
+    width:fit-content;
+    height: fit-content;
+}     
