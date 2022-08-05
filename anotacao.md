@@ -3,7 +3,7 @@
 
     Requisitos do Projeto:
 
--aplicar o layout seguindo figma fornecido **Quase lá**
+-aplicar o layout seguindo figma fornecido **FEITO**
 
 -utilizar a  fonte ENCODE SANS  *FEITO*
 
